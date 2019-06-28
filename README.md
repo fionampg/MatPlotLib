@@ -1,6 +1,6 @@
 # MatPlotLib
 
-# UThe Power of Plots
+# The Power of Plots
 
 ## Background
 
