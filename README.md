@@ -1,6 +1,4 @@
-# MatPlotLib
-
-# The Power of Plots
+# MatPlotLib - The Power of Plots
 
 ## Pyber
 
